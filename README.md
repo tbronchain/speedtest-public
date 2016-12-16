@@ -1,7 +1,8 @@
 # speedtest
 
 author: Thibault Bronchain
-thibault <at> bronchain <dot> me
+
+thibault -at- bronchain -dot- me
 
 ## requirements
 
